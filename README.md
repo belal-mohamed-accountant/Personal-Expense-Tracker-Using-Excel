@@ -3,7 +3,7 @@
 This **Personal Income & Expense Tracker** was created by **Belal Mohamed Abd El Hamid** to help individuals manage their personal finances efficiently using Microsoft Excel.  
 It allows users to track income sources, monitor expenses, and analyze their monthly and yearly financial performance.
 
-![Preview](https://github.com/belal-mohamed-accountant/Personal-Finance-Dashboard-Excel/blob/main/preview.png?raw=true)
+![Preview](https://github.com/belal-mohamed-accountant/Personal-Expense-Tracker-Using-Excel/blob/main/Personal Income & Expense Tracker.png?raw=true)
 
 ---
 
